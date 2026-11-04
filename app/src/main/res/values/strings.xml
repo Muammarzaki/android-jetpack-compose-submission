@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SubmissionCompose</string>
+    <string name="about_page">about button</string>
+    <string name="back">back</string>
+    <string name="author_name">Muammar Zaki</string>
+    <string name="author_email">muammarzaki2004@gmail.com</string>
+    <string name="add">add</string>
+    <string name="search">cari</string>
+    <string name="clear">clear\n</string>
+    <string name="image">image</string>
+    <string name="flag_description">Flag image</string>
+    <string name="next">Next</string>
+</resources>
